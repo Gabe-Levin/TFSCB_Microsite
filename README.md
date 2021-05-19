@@ -1,3 +1,16 @@
+ <!-- The sidebar -->
+<div class="sidebar">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+
+<!-- Page content -->
+<div class="content">
+  ..
+</div> 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Gabe-Levin/TFSCB_Microsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
