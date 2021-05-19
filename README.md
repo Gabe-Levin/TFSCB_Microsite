@@ -6,45 +6,49 @@
   <a href="#about">About</a>
 </div>
 
-<!-- Page content -->
-<div class="content">
-  ..
-</div> 
+####Table of Contents
 
-## Welcome to GitHub Pages
+ 
 
-You can use the [editor on GitHub](https://github.com/Gabe-Levin/TFSCB_Microsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+###Nighttime Light Data and Tutorials
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+    World Bank Nighttime Light data on AWS Open Data: https://registry.opendata.aws/wb-light-every-night/
+    Open Nighttime Light Tutorials: https://worldbank.github.io/connectivity_mapping/intro.html
+    WB Blog post: https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development
+    World Bank and CEGA Geo4Dev symposium on nighttime light in development: https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop/
+    Back-end repo for tutorials (not for public audience) https://github.com/worldbank/OpenNightLights
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-<button name="button" onclick="http://www.google.com">Click me</button>
-```markdown
-Syntax highlighted code block
+ 
 
-# Header 1
-## Header 2
-### Header 3
+###Social Data Collection Tools
 
-- Bulleted
-- List
+    FB/LI: https://worldbank.github.io/connectivity_mapping/intro.html
+    Twitter: https://github.com/worldbank/TwitterEconomicMonitoring
 
-1. Numbered
-2. List
+ 
 
-**Bold** and _Italic_ and `Code` text
+###Linkedin Data for Development
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    Development Data Catalog (public): https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2646
+    Data Partnership: https://datapartnership.org/
+    Skills Benchmarking Tutorial https://github.com/datapartnership/docs-linkedin
 
-### Jekyll Themes
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gabe-Levin/TFSCB_Microsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###Data Products Toolkit
 
-### Support or Contact
+ 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    Data in Action Toolkit https://worldbank.github.io/Data-in-Action/
+
+ 
+
+###Acknowledgements:
+
+ 
+
+Many of the resources published in this repository benefited from generous support from the Trust Fund for Statistical Capacity Building III (TFSCB-III), which is funded by the United Kingdom’s Foreign, Commonwealth & Development Office, the Department of Foreign Affairs and Trade of Ireland, and the Governments of Canada and Korea; as well as support from the Research Support Budget in the Development Economics Vice-Presidency.
