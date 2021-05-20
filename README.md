@@ -67,7 +67,6 @@ div.desc {
  2. Open Nighttime Light Tutorials: <https://worldbank.github.io/connectivity_mapping/intro.html>
  3. WB Blog post: <https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development>
  4. World Bank and CEGA Geo4Dev symposium on nighttime light in development: <https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop/>
- 5. Back-end repo for tutorials (not for public audience) <https://github.com/worldbank/OpenNightLights>
 
  
 
