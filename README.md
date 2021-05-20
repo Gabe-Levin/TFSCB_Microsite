@@ -14,11 +14,11 @@
 
  
 
-    World Bank Nighttime Light data on AWS Open Data: <https://registry.opendata.aws/wb-light-every-night/>
-    Open Nighttime Light Tutorials: <https://worldbank.github.io/connectivity_mapping/intro.html>
-    WB Blog post: <https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development>
-    World Bank and CEGA Geo4Dev symposium on nighttime light in development: <https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop/>
-    Back-end repo for tutorials (not for public audience) <https://github.com/worldbank/OpenNightLights>
+ World Bank Nighttime Light data on AWS Open Data: <https://registry.opendata.aws/wb-light-every-night/>
+ Open Nighttime Light Tutorials: <https://worldbank.github.io/connectivity_mapping/intro.html>
+ WB Blog post: <https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development>
+ World Bank and CEGA Geo4Dev symposium on nighttime light in development: <https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop/>
+ Back-end repo for tutorials (not for public audience) <https://github.com/worldbank/OpenNightLights>
 
  
 
