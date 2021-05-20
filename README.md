@@ -10,7 +10,7 @@
 
  
 
-###Nighttime Light Data and Tutorials
+### Nighttime Light Data and Tutorials
 
  
 
@@ -22,14 +22,14 @@
 
  
 
-###Social Data Collection Tools
+### Social Data Collection Tools
 
     FB/LI: <https://worldbank.github.io/connectivity_mapping/intro.html>
     Twitter: <https://github.com/worldbank/TwitterEconomicMonitoring>
 
  
 
-###Linkedin Data for Development
+### Linkedin Data for Development
 
  
 
@@ -39,7 +39,7 @@
 
  
 
-###Data Products Toolkit
+### Data Products Toolkit
 
  
 
@@ -47,7 +47,7 @@
 
  
 
-###Acknowledgements:
+### Acknowledgements:
 
  
 
