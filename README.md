@@ -1,4 +1,5 @@
- <html>
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 div.gallery {
@@ -54,7 +55,8 @@ div.desc {
 </div>
 
 </body>
-</html> 
+</html>
+
 
 
 
