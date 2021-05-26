@@ -73,9 +73,11 @@
             <div class="desc">4. World Bank and CEGA Geo4Dev symposium on nighttime light in development</div>
         </div>
     </div>
+    
     <div class="title">
         <h1>Social Data Collection Tools</h1>
-
+    </div>
+    
     <div class="gallery">
         <a target="_blank" href="https://worldbank.github.io/connectivity_mapping/intro.html">
             <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
@@ -91,6 +93,7 @@
         </a>
         <div class="desc">2. Twitter</div>
     </div>
+    
 </body>
 </html>
 
