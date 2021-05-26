@@ -109,10 +109,10 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('https://images.unsplash.com/photo-1510180610491-b3309e6c651b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1701&q=80');
+  background-image: url('https://images.unsplash.com/photo-1501418611786-e29f9929fe03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80');
   background-size: 100% auto;
   background-repeat: no-repeat;
-  background-position: 50% 100%;
+  background-position: 50% 50%;
   
   @include large {
     padding: 5rem 6rem;
