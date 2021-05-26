@@ -109,7 +109,8 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('smartphone-5692534_1920.jpg');
+  background-image: url('https://github.com/Gabe-Levin/TFSCB_Microsite/blob/e5a2deb92fc3763778acacf3151f79fd659d5d4c/imgs/bailey-zindel-NRQV-hBF10M-unsplash.jpg');
+  background-image: width: 100%;
 
   @include large {
     padding: 5rem 6rem;
