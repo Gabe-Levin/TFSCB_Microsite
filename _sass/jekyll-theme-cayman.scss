@@ -109,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('smartphone-5692534_1920.jpg')
+  background-image: url('smartphone-5692534_1920.jpg');
 
   @include large {
     padding: 5rem 6rem;
