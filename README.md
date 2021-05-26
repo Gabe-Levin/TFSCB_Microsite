@@ -7,7 +7,7 @@
             border: 1px solid #ccc;
             float: left;
             width: 180px;
-            height: 300px;
+            height: 320px;
         }
 
         div.gallery:hover {
