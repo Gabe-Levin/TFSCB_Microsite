@@ -1,3 +1,5 @@
+### Nighttime Light Data and Tutorials
+
 <html>
 
 <head>
@@ -29,7 +31,7 @@
 <body>
 
     <div class="gallery">
-        <a target="_blank" href="img_5terre.jpg">
+        <a target="_blank" href="https://registry.opendata.aws/wb-light-every-night/">
             <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                 alt="Cinque Terre" width="600" height="400">
         </a>
@@ -37,7 +39,7 @@
     </div>
 
     <div class="gallery">
-        <a target="_blank" href="img_forest.jpg">
+        <a target="_blank" href="https://worldbank.github.io/connectivity_mapping/intro.html">
             <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                 alt="Forest" width="600" height="400">
         </a>
@@ -45,7 +47,7 @@
     </div>
 
     <div class="gallery">
-        <a target="_blank" href="img_lights.jpg">
+        <a target="_blank" href="https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development">
             <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                 alt="Northern Lights" width="600" height="400">
         </a>
@@ -53,7 +55,7 @@
     </div>
 
     <div class="gallery">
-        <a target="_blank" href="img_mountains.jpg">
+        <a target="_blank" href="https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop/">
             <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                 alt="Mountains" width="600" height="400">
         </a>
