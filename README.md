@@ -7,7 +7,7 @@
             border: 1px solid #ccc;
             float: left;
             width: 180px;
-            height: 300px;
+            height: 320px;
         }
 
         div.gallery:hover {
@@ -20,7 +20,7 @@
         }
 
         div.desc {
-            padding: 15px;
+            padding: 5px;
             text-align: center;
         }
     </style>
