@@ -109,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("https://github.com/Gabe-Levin/TFSCB_Microsite/blob/a7e76ce7d107f50441c6112d6a42dc9a5c0b72ba/smartphone-5692534_1920.jpg");
+  background-image: url('smartphone-5692534_1920.jpg')
 
   @include large {
     padding: 5rem 6rem;
