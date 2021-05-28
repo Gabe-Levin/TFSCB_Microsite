@@ -145,7 +145,7 @@
     </div>
 
     <div class="title">
-        <h1>Data Products Toolkit</h1>
+        <h1>Acknowledgements</h1>
     </div>
 
 
