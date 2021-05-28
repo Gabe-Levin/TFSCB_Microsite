@@ -24,7 +24,7 @@
 
         div.desc {
             padding: 5px;
-            text-align: center;
+            text-align: left;
         }
 
         div.title {
