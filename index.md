@@ -31,7 +31,7 @@
 
         div.container {
             width: 100%;
-            height: 360px;
+            height: 300px;
         }
     </style>
 </head>
@@ -150,8 +150,11 @@
 
 
     <div class="title">
-        <h3>Many of the resources publ
-        </h3>
+        <h4>Many of the resources published in this repository benefited from generous support from the Trust Fund for
+            Statistical Capacity Building III (TFSCB-III), which is funded by the United Kingdom’s Foreign, Commonwealth
+            & Development Office, the Department of Foreign Affairs and Trade of Ireland, and the Governments of Canada
+            and Korea; as well as support from the Research Support Budget in the Development Economics Vice-Presidency.
+        </h4>
     </div>
 </body>
 
