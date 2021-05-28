@@ -7,7 +7,7 @@
             border: 1px solid #ccc;
             float: left;
             width: 180px;
-            height: 280px;
+            height: 215px;
             padding-top: 0px;
             vertical-align: middle;
 
