@@ -46,7 +46,7 @@
 
     </div>
     <div class="container">
-        <div class="gallery">
+        <div class="gallery" style=" margin-top: -.1px;">
             <a target="_blank" href="https://registry.opendata.aws/wb-light-every-night/">
                 <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                     alt="Cinque Terre" width="600" height="400">
@@ -86,7 +86,7 @@
     </div>
 
     <div class="container">
-        <div class="gallery">
+        <div class="gallery" style=" margin-top: -.1px;">
             <a target="_blank" href="https://worldbank.github.io/connectivity_mapping/intro.html">
                 <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                     alt="Cinque Terre" width="600" height="400">
@@ -108,7 +108,7 @@
     </div>
 
     <div class="container">
-        <div class="gallery">
+        <div class="gallery" style=" margin-top: -.1px;">
             <a target="_blank"
                 href="https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2646">
                 <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
@@ -125,7 +125,7 @@
             <div class="desc">2. Data Partnership</div>
         </div>
 
-        <div class="gallery">
+        <div class="gallery" style=" margin-top: -.1px;">
             <a target="_blank" href="https://github.com/datapartnership/docs-linkedin">
                 <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                     alt="Skills Benchmarking Tutorial " width="600" height="400">
