@@ -9,26 +9,13 @@
             float: left;
             width: 180px;
             height: 280px;
-            padding-top: 25px;
-        }
-        
-        div.galleryfirst {
-            font-size: small;
-            margin: 5px;
-            border: 1px solid #ccc;
-            float: left;
-            width: 180px;
-            height: 280px;
-            padding-top: 25px;
+            padding-top: 0px;
         }
 
         div.gallery:hover {
             border: 1px solid #777;
         }
-        
-        div.galleryfirst:hover {
-            border: 1px solid #777;
-        }
+
 
         div.gallery img {
             width: 100%;
@@ -58,7 +45,7 @@
 
     </div>
     <div class="container">
-        <div class="galleryfirst">
+        <div class="gallery">
             <a target="_blank" href="https://registry.opendata.aws/wb-light-every-night/">
                 <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                     alt="Cinque Terre" width="600" height="400">
