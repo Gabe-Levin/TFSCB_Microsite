@@ -10,12 +10,12 @@
             width: 180px;
             height: 280px;
             padding-top: 0px;
+            vertical-align: middle;
         }
 
         div.gallery:hover {
             border: 1px solid #777;
         }
-
 
         div.gallery img {
             width: 100%;
@@ -34,7 +34,6 @@
         div.container {
             width: 100%;
             height: 290px;
-            padding-top: 25px;
         }
     </style>
 </head>
