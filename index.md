@@ -47,6 +47,7 @@
         div.container {
             width: 100%;
             height: 290px;
+            padding-top: 25px;
         }
     </style>
 </head>
