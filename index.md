@@ -7,7 +7,7 @@
             border: 1px solid #ccc;
             float: left;
             width: 180px;
-            height: 215px;
+            height: 220px;
             padding-top: 0px;
             vertical-align: middle;
 
@@ -24,7 +24,7 @@
 
         div.desc {
             padding: 5px;
-            text-align: left;
+            text-align: center;
         }
 
         div.title {
