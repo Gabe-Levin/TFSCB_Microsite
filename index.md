@@ -31,7 +31,7 @@
 
         div.container {
             width: 100%;
-            height: 300px;
+            height: 290px;
         }
     </style>
 </head>
