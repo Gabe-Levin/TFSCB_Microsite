@@ -55,7 +55,7 @@
 
         <div class="gallery">
             <a target="_blank" href="https://worldbank.github.io/connectivity_mapping/intro.html">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/ONL_Tutorial.JPG"
                     alt="Forest" width="600" height="400">
             </a>
             <div class="desc">2. Open Nighttime Light Tutorials</div>
@@ -64,7 +64,7 @@
         <div class="gallery">
             <a target="_blank"
                 href="https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/WB_Blog.JPG0"
                     alt="Northern Lights" width="600" height="400">
             </a>
             <div class="desc">3. WB Blog post:</div>
@@ -73,7 +73,7 @@
         <div class="gallery">
             <a target="_blank"
                 href="https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/Geo4Dev.JPG"
                     alt="Mountains" width="600" height="400">
             </a>
             <div class="desc">4. World Bank and CEGA Geo4Dev symposium on nighttime light in development</div>
@@ -86,7 +86,7 @@
 
     <div class="container">
         <div class="gallery" style=" margin-top: 5px;">
-            <a target="_blank" href="https://worldbank.github.io/connectivity_mapping/intro.html">
+            <a target="_blank" href="imgs/FB_LinkedIN.JPG">
                 <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
                     alt="Cinque Terre" width="600" height="400">
             </a>
@@ -95,7 +95,7 @@
 
         <div class="gallery">
             <a target="_blank" href="https://github.com/worldbank/TwitterEconomicMonitoring">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/Twitter_github.JPG"
                     alt="Forest" width="600" height="400">
             </a>
             <div class="desc">2. Twitter</div>
