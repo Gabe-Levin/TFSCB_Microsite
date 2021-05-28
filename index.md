@@ -19,7 +19,7 @@
 
         div.gallery img {
             width: 100%;
-            height: 175px;
+            height: 125px;
         }
 
         div.desc {
@@ -64,7 +64,7 @@
         <div class="gallery">
             <a target="_blank"
                 href="https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development">
-                <img src="imgs/WB_Blog.JPG0"
+                <img src="imgs/WB_Blog.JPG"
                     alt="Northern Lights" width="600" height="400">
             </a>
             <div class="desc">3. WB Blog post:</div>
@@ -87,7 +87,7 @@
     <div class="container">
         <div class="gallery" style=" margin-top: 5px;">
             <a target="_blank" href="imgs/FB_LinkedIN.JPG">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/FB_LinkedIN.JPG"
                     alt="Cinque Terre" width="600" height="400">
             </a>
             <div class="desc">1. FB/LI</div>
@@ -110,7 +110,7 @@
         <div class="gallery" style=" margin-top: 5px;">
             <a target="_blank"
                 href="https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2646">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/DevDataCatelog.JPG"
                     alt="Development Data Catalog (public)" width="600" height="400">
             </a>
             <div class="desc">1. Development Data Catalog (public)</div>
@@ -118,7 +118,7 @@
 
         <div class="gallery">
             <a target="_blank" href="https://datapartnership.org/">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/DataCapture.JPG"
                     alt="Data Partnership" width="600" height="400">
             </a>
             <div class="desc">2. Data Partnership</div>
@@ -140,7 +140,7 @@
     <div class="container">
         <div class="gallery">
             <a target="_blank" href="https://worldbank.github.io/Data-in-Action/">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/DataInActionToolkit.JPG"
                     alt="Development Data Catalog (public)" width="600" height="400">
             </a>
             <div class="desc">1. Data in Action Toolkit</div>
