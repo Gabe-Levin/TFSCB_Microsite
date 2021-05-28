@@ -11,6 +11,7 @@
             height: 280px;
             padding-top: 0px;
             vertical-align: middle;
+
         }
 
         div.gallery:hover {
@@ -34,6 +35,7 @@
         div.container {
             width: 100%;
             height: 290px;
+            align-content: start;
         }
     </style>
 </head>
