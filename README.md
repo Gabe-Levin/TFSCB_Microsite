@@ -1,161 +1,37 @@
-<html>
+ ### Nighttime Light Data and Tutorials
 
-<head>
-    <style>
-        div.gallery {
-            font-size: small;
-            margin: 5px;
-            border: 1px solid #ccc;
-            float: left;
-            width: 180px;
-            height: 280px;
-        }
+ 
 
-        div.gallery:hover {
-            border: 1px solid #777;
-        }
+ 1. World Bank Nighttime Light data on AWS Open Data: <https://registry.opendata.aws/wb-light-every-night/>
+ 2. Open Nighttime Light Tutorials: <https://worldbank.github.io/connectivity_mapping/intro.html>
+ 3. WB Blog post: <https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development>
+ 4. World Bank and CEGA Geo4Dev symposium on nighttime light in development: <https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop/>
 
-        div.gallery img {
-            width: 100%;
-            height: auto;
-        }
+ 
 
-        div.desc {
-            padding: 5px;
-            text-align: center;
-        }
+### Social Data Collection Tools
 
-        div.title {
-            width: 100%;
-        }
+  1. FB/LI: <https://worldbank.github.io/connectivity_mapping/intro.html>
+  2. Twitter: <https://github.com/worldbank/TwitterEconomicMonitoring>
 
-        div.container {
-            width: 100%;
-            height: 360px;
-        }
-    </style>
-</head>
+ 
 
-<body>
-    <div class="title">
-        <h1>Nighttime Light Data and Tutorials</h1>
+### Linkedin Data for Development
 
-    </div>
-    <div class="container">
-        <div class="gallery">
-            <a target="_blank" href="https://registry.opendata.aws/wb-light-every-night/">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Cinque Terre" width="600" height="400">
-            </a>
-            <div class="desc">1. World Bank Nighttime Light data on AWS Open Data</div>
-        </div>
+  1. Development Data Catalog (public): <https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2646>
+  2. Data Partnership: <https://datapartnership.org/>
+  3. Skills Benchmarking Tutorial <https://github.com/datapartnership/docs-linkedin>
 
-        <div class="gallery">
-            <a target="_blank" href="https://worldbank.github.io/connectivity_mapping/intro.html">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Forest" width="600" height="400">
-            </a>
-            <div class="desc">2. Open Nighttime Light Tutorials</div>
-        </div>
+ 
 
-        <div class="gallery">
-            <a target="_blank"
-                href="https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Northern Lights" width="600" height="400">
-            </a>
-            <div class="desc">3. WB Blog post:</div>
-        </div>
+### Data Products Toolkit
 
-        <div class="gallery">
-            <a target="_blank"
-                href="https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Mountains" width="600" height="400">
-            </a>
-            <div class="desc">4. World Bank and CEGA Geo4Dev symposium on nighttime light in development</div>
-        </div>
-    </div>
+  1. Data in Action Toolkit <https://worldbank.github.io/Data-in-Action/>
 
-    <div class="title">
-        <h1>Social Data Collection Tools</h1>
-    </div>
+ 
 
-    <div class="container">
-        <div class="gallery">
-            <a target="_blank" href="https://worldbank.github.io/connectivity_mapping/intro.html">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Cinque Terre" width="600" height="400">
-            </a>
-            <div class="desc">1. FB/LI</div>
-        </div>
+### Acknowledgements:
 
-        <div class="gallery">
-            <a target="_blank" href="https://github.com/worldbank/TwitterEconomicMonitoring">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Forest" width="600" height="400">
-            </a>
-            <div class="desc">2. Twitter</div>
-        </div>
-    </div>
+ 
 
-    <div class="title">
-        <h1>Linkedin Data for Development</h1>
-    </div>
-
-    <div class="container">
-        <div class="gallery">
-            <a target="_blank"
-                href="https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&f%5B0%5D=field_collection_field%3A2646">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Development Data Catalog (public)" width="600" height="400">
-            </a>
-            <div class="desc">1. Development Data Catalog (public)</div>
-        </div>
-
-        <div class="gallery">
-            <a target="_blank" href="https://datapartnership.org/">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Data Partnership" width="600" height="400">
-            </a>
-            <div class="desc">2. Data Partnership</div>
-        </div>
-
-        <div class="gallery">
-            <a target="_blank" href="https://github.com/datapartnership/docs-linkedin">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Skills Benchmarking Tutorial " width="600" height="400">
-            </a>
-            <div class="desc">3. Skills Benchmarking Tutorial</div>
-        </div>
-    </div>
-
-    <div class="title">
-        <h1>Data Products Toolkit</h1>
-    </div>
-
-    <div class="container">
-        <div class="gallery">
-            <a target="_blank" href="https://worldbank.github.io/Data-in-Action/">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
-                    alt="Development Data Catalog (public)" width="600" height="400">
-            </a>
-            <div class="desc">1. Data in Action Toolkit</div>
-        </div>
-    </div>
-
-    <div class="title">
-        <h1>Data Products Toolkit</h1>
-    </div>
-
-
-    <div class="title">
-        <h3>Many of the resources published in this repository benefited from generous support from the Trust Fund for
-            Statistical Capacity Building III (TFSCB-III), which is funded by the United Kingdom’s Foreign, Commonwealth
-            & Development Office, the Department of Foreign Affairs and Trade of Ireland, and the Governments of Canada
-            and Korea; as well as support from the Research Support Budget in the Development Economics Vice-Presidency.
-        </h3>
-    </div>
-</body>
-
-</html>
+Many of the resources published in this repository benefited from generous support from the Trust Fund for Statistical Capacity Building III (TFSCB-III), which is funded by the United Kingdom’s Foreign, Commonwealth & Development Office, the Department of Foreign Affairs and Trade of Ireland, and the Governments of Canada and Korea; as well as support from the Research Support Budget in the Development Economics Vice-Presidency.
