@@ -47,7 +47,7 @@
     <div class="container">
         <div class="gallery" style=" margin-top: 5px;">
             <a target="_blank" href="https://registry.opendata.aws/wb-light-every-night/">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                <img src="imgs/NTL_AWS.JPG"
                     alt="Cinque Terre" width="600" height="400">
             </a>
             <div class="desc">1. World Bank Nighttime Light data on AWS Open Data</div>
