@@ -9,6 +9,7 @@
             float: left;
             width: 180px;
             height: 280px;
+            padding-top: 25px;
         }
 
         div.gallery:hover {
