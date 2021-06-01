@@ -29,6 +29,7 @@
 
         div.title {
             width: 100%;
+            clear: left;
         }
 
         div.container {
