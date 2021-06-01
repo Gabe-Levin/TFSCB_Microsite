@@ -29,7 +29,7 @@
 
         div.title {
             width: 100%;
-            clear: left;
+            clear: both;
         }
 
         div.container {
