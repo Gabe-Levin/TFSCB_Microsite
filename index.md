@@ -22,7 +22,7 @@
             height: 125px;
             border-top-left-radius: 6px;
             border-top-right-radius: 6px;
-            border-bottom: #ccc;
+            border-bottom: 1px solid rgba(204, 204, 204, 0.397);
         }
 
         div.desc {
