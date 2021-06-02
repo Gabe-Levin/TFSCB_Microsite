@@ -71,7 +71,7 @@
                 <img src="imgs/WB_Blog.JPG"
                     alt="Northern Lights" width="600" height="400">
             </a>
-            <div class="desc">3. WB Blog post:</div>
+            <div class="desc">3. WB Blog post</div>
         </div>
 
         <div class="gallery">
