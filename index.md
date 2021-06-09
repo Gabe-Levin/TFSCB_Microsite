@@ -46,8 +46,8 @@
         }
 
         div.container {
-            width: 100%;
-            height: 290px;
+            width: 120%;
+            height: 240px;
             align-content: start;
         }
     </style>
