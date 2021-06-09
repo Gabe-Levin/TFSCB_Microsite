@@ -38,6 +38,7 @@
 
         div.title h1 {
             margin-bottom: 0.0rem;
+            margin-top: 2rem;
         }
 
         div.title h4 {
