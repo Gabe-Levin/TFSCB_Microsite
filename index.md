@@ -36,14 +36,19 @@
             clear: both;
         }
 
-        div.container {
-            width: 120%;
-            height: 290px;
-            align-content: start;
+        div.title h1 {
+            margin-bottom: 0.0rem;
         }
 
-        div.desc h4 {
-            text-align: left;
+        div.title h4 {
+            margin-bottom: 0.5rem;
+            margin-top: 0.5rem;
+        }
+
+        div.container {
+            width: 100%;
+            height: 290px;
+            align-content: start;
         }
     </style>
 </head>
