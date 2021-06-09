@@ -37,7 +37,7 @@
         }
 
         div.container {
-            width: 100%;
+            width: 120%;
             height: 290px;
             align-content: start;
         }
