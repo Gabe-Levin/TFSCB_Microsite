@@ -65,7 +65,7 @@
             <a target="_blank" href="https://registry.opendata.aws/wb-light-every-night/">
                 <img src="imgs/NTL_AWS.JPG" alt="Cinque Terre" width="600" height="400">
             </a>
-            <div class="desc">1. World Bank Nighttime Light data on AWS open Data
+            <div class="desc">1. World Bank Nighttime Light Data on AWS Open Data
             </div>
         </div>
 
@@ -81,7 +81,7 @@
                 href="https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development">
                 <img src="imgs/WB_Blog.JPG" alt="Northern Lights" width="600" height="400">
             </a>
-            <div class="desc">3. Blog post describing nighttime light data in action</div>
+            <div class="desc">3. Blog Post Describing Nighttime Light Data in Action</div>
         </div>
 
         <div class="gallery">
@@ -89,13 +89,13 @@
                 href="https://cega.berkeley.edu/event/geospatial-analysis-for-development-2020-symposium-and-workshop">
                 <img src="imgs/Geo4Dev.JPG" alt="Mountains" width="600" height="400">
             </a>
-            <div class="desc">4. World Bank and CEGA Geo4Dev symposium on nighttime light in development</div>
+            <div class="desc">4. World Bank and CEGA Geo4Dev Symposium on Nighttime Light in Development</div>
         </div>
     </div>
 
     <div class="title">
         <h1>Social Data Collection Tools</h1>
-        <h4>Harness massive social data collection tools related data from Facebook, Linkedin, and Twitter.</h4>
+        <h4>Harness massive social data collection tools from Facebook, Linkedin, and Twitter.</h4>
     </div>
 
     <div class="container">
@@ -116,7 +116,7 @@
 
     <div class="title">
         <h1>Linkedin Data for Development</h1>
-        <h4>Understand rapidly evolving labor markets with detailed and dynamic data Linkedin Data tools and tutorials.
+        <h4>Understand rapidly evolving labor markets with detailed and dynamic Linkedin data tools and tutorials.
         </h4>
     </div>
 
@@ -133,7 +133,7 @@
             <a target="_blank" href="https://datapartnership.org/">
                 <img src="imgs/DataCapture.JPG" alt="Data Partnership" width="600" height="400">
             </a>
-            <div class="desc">2. Development Data Partnership, facilitating 3rd party data for research and development
+            <div class="desc">2. Development Data Partnership, Facilitating 3rd Party Data for Research and Development
             </div>
         </div>
 
@@ -149,8 +149,7 @@
     <div class="title">
         <h1>Data Products Toolkit</h1>
         <h4>Make informed decisions about your data needs and insight implementation, using the World Bank's
-            comprehensive Data in
-            Action Toolkit.
+            comprehensive Data in Action Toolkit.
         </h4>
     </div>
 
@@ -160,8 +159,8 @@
                 <img src="imgs/DataInActionToolkit.JPG" alt="Development Data Catalog (public)" width="600"
                     height="400">
             </a>
-            <div class="desc">1. Data in Action Toolkit, for an organized approach to open data science tools and
-                practices</div>
+            <div class="desc">1. Data in Action Toolkit, for an Organized Approach to Open Data Science Tools and
+                Practices</div>
         </div>
     </div>
 
