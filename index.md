@@ -139,8 +139,8 @@
         </div>
 
         <div class="gallery" style=" margin-top: 5px;">
-            <a target="_blank" href="https://github.com/datapartnership/docs-linkedin">
-                <img src="https://images.unsplash.com/photo-1481819613568-3701cbc70156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+            <a target="_blank" href="https://github.com/worldbank/LinkedInSkillsDiagnostic">
+                <img src="imgs/SkillsBenchmarking.JPG"
                     alt="Skills Benchmarking Tutorial " width="600" height="400">
             </a>
             <div class="desc">3. Skills Benchmarking Tutorial</div>
