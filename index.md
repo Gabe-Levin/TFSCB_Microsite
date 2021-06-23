@@ -44,7 +44,7 @@
         div.title h4 {
             margin-bottom: 0.5rem;
             margin-top: 0.5rem;
-            color: rgba(0, 0, 0, 0.836);
+            color: rgba(0, 0, 0, 0.5);
         }
 
         div.container {
